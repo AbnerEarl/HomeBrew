@@ -1,6 +1,9 @@
 # HomeBrew
 HomeBrew 自动安装脚本。
 
+如果通过下面的命令行安装出现异常，可以直接克隆或者下载该项目到本地，然后通过终端进入到对应目录，执行 ```bash xxx.sh``` 即可正确安装。
+
+
 ## 国内
 ```
 /bin/zsh -c "$(curl -fsSL https://github.com/YouAreOnlyOne/HomeBrew/blob/main/CN/HomeBrew.sh)"
@@ -25,8 +28,6 @@ HomeBrew 自动安装脚本。
 
 ```
 
-## 异常
-如果通过上面的命令行安装出现异常，可以直接克隆或者下载该项目到本地，然后通过终端进入到对应目录，执行 ```bash xxx.sh```即可正确安装。
 
 # 更多
 请查看博客专栏：
